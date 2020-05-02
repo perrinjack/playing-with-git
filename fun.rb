@@ -4,11 +4,9 @@ x = 0
 puts "Dumb fucking files"
 
 if ((x == 0) 
-    puts "Hello World!"
+    puts "Hello World! I miss beers avec les boys"
     
 end 
-
-# old version 
 
 
 
