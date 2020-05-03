@@ -1,4 +1,3 @@
 #Process
-
 require './send_sms.rb'
-send_text("HELLO", ['+447590606244'])
+send_text("Welcome", ['+44 7961 587500'])
